@@ -1,0 +1,5 @@
+set 
+append  加上去，不存在的话创建一个
+get 返回所关联的字符串值，不存在返回null
+getrange 取子串 
+strlen 返回长度

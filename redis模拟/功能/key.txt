@@ -1,0 +1,3 @@
+del 删除一个key，不存在的key会被忽略，返回删除key的数量
+exists 检查key是否存在
+rename 修改key的名字和。。。。、

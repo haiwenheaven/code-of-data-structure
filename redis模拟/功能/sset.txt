@@ -1,0 +1,10 @@
+newlist    新建一个有序表 
+dellist 删除一个有序表
+alllist 列出所有的有序表的名字
+
+
+push 往有序表中加入元素
+pop 删除有序表中一个元素
+list 将有序表输出
+
+
